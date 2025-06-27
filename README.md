@@ -80,3 +80,5 @@ B.Sc. in Software Engineering, Samsun University
 *Graduation Project, 2025*
 
 ---
+
+📄 License: CC BY-NC-ND 4.0 — See LICENSE file for details.
